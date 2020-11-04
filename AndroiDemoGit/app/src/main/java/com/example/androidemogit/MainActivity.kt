@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         var b = "aaa"
         var task2 = "bbbb"
+		var task1_2 = "cccc"
     }
 }
