@@ -9,5 +9,6 @@ class MainActivity3 : AppCompatActivity() {
         setContentView(R.layout.activity_main3)
 
         var fromTask1 = "aaggg"
+        var fromTask2 = "cxcxc"
     }
 }
